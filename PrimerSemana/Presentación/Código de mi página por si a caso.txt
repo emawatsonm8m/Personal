@@ -1,0 +1,152 @@
+Código de mi página:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>m&m</title>
+</head>
+<body bgcolor="black">
+    <center><font face="Broadway" size="7"><p style="color:deeppink"><strong>Emma</strong></p></font></center>
+    <hr>
+    <font face="Chiller" size="4"><h2 style="color:deeppink">Conóceme un poco más...</h2></font>
+    <hr>
+    <center><img src="Yo.jpg" alt="Collage de fotos de Emma"></img></center>
+
+    <table  align="center">
+        <thead>
+          <tr>
+            <th style="color:deeppink"><strong><font face="Broadway" size="5">¿Qué significa Emma?</font></strong></th>
+          </tr>
+        </thead>
+    
+        <tbody>
+          <tr>
+            <td style="color:aliceblue"  width="500px"><font face="Berlin Sans FB" size="4">Este nombre tiene un orígen germánico, proviene de "Ermin" que significa fuerza, pero también pueden encontrarse significados como, grande o poderosa y de ahí que se relacione a este nombre con personalidades fuertes o poderosas, sí puede que lo diga porque es mi nombre, pero creo que me queda bien, y me gusta mucho.</font></td>
+          </tr>
+        </tbody>
+
+        <thead>
+          <tr>
+            <th style="color:deeppink"><strong><font face="Broadway" size="5">¿Quién es Emma?</font></strong></th>
+          </tr>
+        </thead>
+
+        <tbody>
+          <tr>
+            <td style="color:aliceblue"  width="500px"><font face="Berlin Sans FB" size="4">Hola yo soy Emma o m&m que es mi apodo, el cual vino de mi mejor amigo que se llama Dante, me lo puso cuando estaba comiendo m&ms, de ahí se quedó, me gustan las motocicletas, el color negro y rosa, me gustan las matemáticas aunque es una relación amor odio, quiero estudiar algo que me lleve a programar y a las computadoras y a cosas de ciberseguridad, y quise tomar este curso, porque a pesar de que sé varias cosas que he aprendido por mi cuenta, creo que podría ayudarme a organizar mis ideas y ver qué tengo que mejorar, en qué cosas tengo que profundizar y me sirve ver qué tanto sé con respecto a mis demás compañeros, poder tener un punto de referencia sobre que tan bueno es mi trabajo en este momento y qué me falta para poder ser la mejor en las cosas que voy haciendo. Me gustaría hacer las cosas no solo por entregar esta vez, tratar de dar mi mayor esfuerzo en los trabajos que se vayan dejando a lo largo del curso, un gusto conocerte y gracias por leer.</font></td>
+          </tr>
+        </tbody>
+    </table>
+
+    <br>
+    <br>
+    <br>
+    <br>
+
+    <hr>
+    <center><p style="color:deeppink"><strong><font face="Broadway" size="6">Top 5 películas favoritas</font></strong></p></center>
+    <hr>
+    <br>
+
+    <table align="center">
+        <thead>
+            <tr>
+                <th style="color:deeppink"><strong><font face="Broadway" size="6"> Nombre </font></th>
+                <th style="color:deeppink"><strong><font face="Broadway" size="6"> Portada </font></th>
+                <th style="color:deeppink"><strong><font face="Broadway" size="6"> Trailer </font></th>
+            </tr>
+        </thead>
+
+        <tbody>
+            <tr>
+                <td style="color:aliceblue"><strong><font face="Berlin Sans FB" size="5"><center> Avatar 1 </center></font></td>
+                <td style="color:aliceblue" width="300px"><strong><font face="Berlin Sans FB" size="2"><center><img src="Avatar1.jpg" alt="Portada de película"></img></font></td>
+                <td style="color:aliceblue" width="200px"><strong><font face="Berlin Sans FB" size="2"><iframe width="200" height="315" src="https://www.youtube.com/embed/g5deg0HgCmY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></font></td>
+            </tr>
+
+            <tr>
+                <td style="color:aliceblue"><strong><font face="Berlin Sans FB" size="5"><center> Avatar 2</center> </font></td>
+                <td style="color:aliceblue" width="300px"><strong><font face="Berlin Sans FB" size="2"><center><img src="Avatar2.jpg" alt="Portada de película"></img></center></font></td>
+                <td style="color:aliceblue" width="200px"><strong><font face="Berlin Sans FB" size="2"><iframe width="200" height="315" src="https://www.youtube.com/embed/qWvbOmT7rTw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></font></td>
+            </tr>
+
+            <tr>
+                <td style="color:aliceblue"><strong><font face="Berlin Sans FB" size="5"><center>El laberinto del fauno</center></font></td>
+                <td style="color:aliceblue" width="300px"><strong><font face="Berlin Sans FB" size="2"><center><img src="Fauno.jpg" alt="Portada de película"></img></center></font></td>
+                <td style="color:aliceblue" width="200px"><strong><font face="Berlin Sans FB" size="2"><iframe width="200" height="315" src="https://www.youtube.com/embed/FGzvvUBXj5M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></font></td>
+            </tr>
+
+            <tr>
+                <td style="color:aliceblue"><strong><font face="Berlin Sans FB" size="5"><center>Rápidos y furiosos</center></font></td>
+                <td style="color:aliceblue" width="300px"><strong><font face="Berlin Sans FB" size="2"><center><img src="Rapidos.jpg" alt="Portada de película"></img></center></font></td>
+                <td style="color:aliceblue" width="200px"><strong><font face="Berlin Sans FB" size="2"><iframe width="200" height="315" src="https://www.youtube.com/embed/mVfTk5sPlw4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></font></td>
+            </tr>
+
+            <tr>
+                <td style="color:aliceblue"><strong><font face="Berlin Sans FB" size="5"><center>Hombres de negro</center></font></td>
+                <td style="color:aliceblue" width="300px"><strong><font face="Berlin Sans FB" size="2"><center><img src="Hombres.jpg" alt="Portada de película"></img></center></font></td>
+                <td style="color:aliceblue" width="200px"><strong><font face="Berlin Sans FB" size="2"><iframe width="200" height="315" src="https://www.youtube.com/embed/9fEyWV4d7dw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></font></td>
+            </tr>
+        </tbody>
+    </table>
+
+    <br>
+    <hr>
+    <center><p style="color:deeppink"><strong><font face="Broadway" size="6">Mi comida favorita</font></strong></p></center>
+    <hr>
+    <br>
+
+    <table align="center">
+      <tbody>
+        <tr>
+            <td width="200px">
+              <ul type="square" style="color:aliceblue">
+                <li>Albóndigas </li>
+                <li>Lomo de atún</li>
+                <li>Espagueti</li>
+              </ul>  
+            </td>
+
+            <td  width="200px"><strong><center><a href="https://youtu.be/PbW53KLy1R4"><img src="Albóndigas.jpg" alt="Albóndigas"></img></a></center></td>
+            <td  width="200px"><strong><center><a href="https://youtu.be/XyvYZDtelEQ"><img src="Atún.jpg" alt="Atún"></img></a></center></td>
+            <td  width="200px"><strong><center><a href="https://youtu.be/Q4t7yBYQD6Q"><img src="Espagueti.jpg" alt="Espagueti"></img></a></center></td>
+        </tr>
+      </tbody>
+    </table>
+
+    <br>
+    <hr>
+    <center><p style="color:deeppink"><strong><font face="Broadway" size="6">Mis canciones favoritas</font></strong></p></center>
+    <hr>
+    <br>
+
+    <table align="center">
+        <tbody>
+            <tr>
+                <td>
+                    <ol type="I" style="color:aliceblue">
+                        <li><a href="https://youtu.be/w4s6H4ku6ZY">Like A G6</a></li>
+                        <li><a href="https://youtu.be/EPo5wWmKEaI">Give Me Everything</a></li>
+                        <li><a href="https://youtu.be/7zp1TbLFPp8">Danza Kuduro</a></li>
+                        <li><a href="https://youtu.be/iyLdoQGBchQ">Lambada de Kahoma</a></li>
+                    </ol>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+    <hr>
+      <table align="center">
+        <tbody>
+            <tr>
+              <td  width="200px"><strong><center><a href="https://instagram.com/emwats_999?igshid=ZGUzMzM3NWJiOQ=="><img src="Instagram.jpg" alt="Logo de instagram"></img></a></center></td>
+              <td  width="200px"><strong><center><img src="Telegram.jpg" alt="Telegram"></img></center></td>
+              <td  width="200px"><strong><center><a href="https://twitter.com/EmmaRey48855743?t=9QNOEwBjCQckH6pvzyl6AQ&s=08"><img src="Twitter.jpg" alt="Logo de twitter"></img></a></center></td>
+            </tr>
+        </tbody>
+      </table>
+    <hr>
+</body>
+</html>

@@ -1,0 +1,12 @@
+
+/*Formato para tiketmaster*/
+p.hola{
+    color:blanchedalmond;
+}
+//  *{} es un selector universal
+.hola{
+    color:blanchedalmond;
+}
+#Contenedor1{
+    background-image: url("link de la imágen o página a insertar o ruta dela imágen en la computadora");
+}

@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CompraBoletos</title>
+    <link rel="stylesheet" type="text/css" href="formato.css" type="imagen/icon">
+</head>
+
+
+<nav>
+    <a href="index.html"><h3>Inicio</h3></a>
+</nav>
+
+
+<header>
+    <h1>TicketMaster</h1>
+</header>
+
+
+<body>
+    <form action="./index.php" method="POST">
+
+		<label for="Nombre">Nombre:</label>
+		<input type="text" id="Nombre" name="Nombre" >
+
+        <label for="Apellido">Apellido:</label>
+		<input type="text" id="Apellido" name="Apellido" required>
+
+		<label for="Zona">Zona:</label>
+		<select id="Zona" name="Zona" required>
+			<option value="Tepito">Tepito</option>
+			<option value="ArenaMexico">Arena México</option>
+			<option value="BellasArtes">Bellas Artes</option>
+			<option value="EstadioAzteca">Estadio Azteca</option>
+		</select>
+
+		<label for="Boletos">Boletos:</label>
+		<input type="number" id="Boletos" name="Boletos" required>
+
+        <label for="Artista">Artista:</label>
+		<select id="Artista" name="Artista" required>
+			<option value="Rap">Rap local</option>
+			<option value="Rosalia">La Rosalia</option>
+			<option value="Orquesta">Orquesta sinfónica</option>
+			<option value="Fut">Fut</option>
+		</select>
+
+        <label for="Fecha">Fecha:</label>
+        <input type="date" id="Fecha" name="Fecha" required>
+
+        <label for="Extras">Extras:</label>
+		<select id="Extras" name="Extras" required>
+			<option value="Ninguno">Ninguno</option>
+            <option value="VIP">VIP pase a camerinos</option>
+			<option value="Comida y Bebidas">Comida y bebidas</option>
+			<option value="Extas del Evento">Extras del evento</option>
+		</select>
+
+        <center><button>Siguiente</button></center>
+		
+	</form>
+</body>
+</html>
